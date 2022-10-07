@@ -1,4 +1,4 @@
-### Hi, Welcome To My Github Profile 👋 👋 
+### Hi, Welcome to My Github Profile 👋 👋 
 
 I'm Mustafa, I'm working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. 
 <h3 align="center">Connect with me:</h3>
@@ -6,6 +6,7 @@ I'm Mustafa, I'm working on Android application development. I am sharing my pro
 <p align="center">
 <a href="mailto:mustafaunlu@mail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mustafaunlu@mail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/unlumustafa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@unlumustafa-blue?style=flat&logo=linkedin"></a>
+<a href="https://mustafaunlu.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-@mustafaunlu-blue?style=flat&logo=medium"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
