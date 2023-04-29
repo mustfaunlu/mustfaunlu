@@ -24,5 +24,5 @@ I'm Mustafa, I'm working on Android application development,sharing my projects 
 
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustfaunlu&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustfaunlu&layout=compact&theme=tokyonight" height="100">
 </p>
