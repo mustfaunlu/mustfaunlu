@@ -8,9 +8,9 @@ I'm Mustafa, I'm working on Android application development,sharing my projects 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="mailto:mustafaunlu@mail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mustafaunlu@mail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/unlumustafa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@unlumustafa-blue?style=flat&logo=linkedin"></a>
-<a href="https://mustafaunlu.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-@mustafaunlu-blue?style=flat&logo=medium"></a>
+<a href="mailto:mustafaunlu@mail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mustafaunlu@mail.com-red?style=plastic&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/unlumustafa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@unlumustafa-blue?style=plastic&logo=linkedin"></a>
+<a href="https://mustafaunlu.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-@mustafaunlu-black?style=plastic&logo=medium"></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
