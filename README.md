@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, Welcome to My Github Profile 👋 👋 </h2>
 
 <p align="center">
-I'm Mustafa, I'm working on Android application development,sharing my projects here. I usually use the Kotlin programming language for Android projects.</p>
+I'm working on Android application development,sharing my projects here.</p>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/38860392/227801457-824e144d-57c1-492f-b812-92b936f605bf.gif" min-width="200px" max-width="200px" width="200px" align="center"> </p>
 
