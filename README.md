@@ -1,7 +1,6 @@
-<h2 align="center"> Hi, Welcome to My Github Profile 👋 👋 </h2>
+<h2 align="center"> Hello World! 👋 👋 </h2>
 
-<p align="center">
-I'm working on Android application development,sharing my projects here.</p>
+<p align="center"> I can not only read the ancient scrolls of Java and inscribe a bit of my own, but I also embark on time-traveling adventures with the magical syntax of Kotlin. As for Swift, well, let's just say we have a casual acquaintance – it's there when I need it, you know? 😉✨</p>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/38860392/227801457-824e144d-57c1-492f-b812-92b936f605bf.gif" min-width="200px" max-width="200px" width="200px" align="center"> </p>
 
