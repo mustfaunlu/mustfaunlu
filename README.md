@@ -1,21 +1,47 @@
-<h2 align="center"> Hello World! 👋 👋 </h2>
-
-<p align="center">✨</p>
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/38860392/227801457-824e144d-57c1-492f-b812-92b936f605bf.gif" min-width="200px" max-width="200px" width="200px" align="center"> </p>
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="mailto:mustafaunlu@mail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mustafaunlu@mail.com-red?style=plastic&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/unlumustafa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@unlumustafa-blue?style=plastic&logo=linkedin"></a>
-<a href="https://mustafaunlu.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-@mustafaunlu-black?style=plastic&logo=medium"></a>
+ <p align="center">
+ ✨
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
 <p align="center">
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+  <a href="mailto:mustafaunlu@mail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/unlumustafa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mustafaunlu.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.android.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" alt="Android" />
+  </a>
+  <a href="https://www.apple.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/apple/808080" width="48" height="48" alt="Apple" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="48" height="48" alt="Kotlin" />
+  </a>
+  <a href="https://www.swift.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/swift/F05138" width="48" height="48" alt="Swift" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+       width="48"
+       height="48"
+       alt="Java" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
